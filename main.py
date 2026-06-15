@@ -523,4 +523,3 @@ def run_bot():
 
 # استارت
 run_bot()
-
