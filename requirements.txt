@@ -1,7 +1,0 @@
-pandas
-pandas_ta
-requests
-ccxt
-matplotlib
-mplfinance
-python-dotenv
